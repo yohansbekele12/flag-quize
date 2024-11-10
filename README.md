@@ -1,4 +1,4 @@
-Here’s a README for your Flag Quiz Game project:
+
 
 ---
 
@@ -85,4 +85,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-This README gives a clear overview and instructions for users and contributors. Let me know if you'd like to customize it further!
+
